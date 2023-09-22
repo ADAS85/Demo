@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Life is the path to the utmost happiness.
+=======
+Life is the path towards eternal happiness.
+>>>>>>> 8411378a13220ce4ae6d7e452d49662a812e6b10
