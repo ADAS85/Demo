@@ -4,3 +4,5 @@ Life is full of surprises.
 =======
 Life is full of surprises.
 >>>>>>> f48cdef1b9541e94a946793431c8a61e42e5e298
+
+Hello GitHub. GitHub is a remote repository.
