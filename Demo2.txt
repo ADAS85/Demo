@@ -1,4 +1,9 @@
 Life is bigger than we think. It is the reason of this world's existence.
+<<<<<<< HEAD
 The world is bigger than we know.
 
 Git is the local repository located in our system.
+=======
+
+Codingal provides good coding lessons.
+>>>>>>> 24bc2056b6170d18eda2eb1ad2d52052e1abb344
