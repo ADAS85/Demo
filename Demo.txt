@@ -8,3 +8,4 @@ Life is full of surprises.
 Hello GitHub. GitHub is a remote repository.
 
 Hi. I have connected my GitHub account to Replit.
+Hello Replit to GitHub.
